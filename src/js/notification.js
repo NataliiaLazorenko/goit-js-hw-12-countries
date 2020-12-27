@@ -7,7 +7,7 @@ function showNotification(message, type) {
     type: `${type}`,
     text: `${message}`,
     mode: 'light',
-    delay: 2500,
+    delay: 2000,
     sticker: false,
     maxTextHeight: null,
     addClass: 'notification',
